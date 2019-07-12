@@ -1,6 +1,6 @@
 package main
 
-import "github.com/benibana2001/black_img/BlackImg"
+import "github.com/benibana2001/create_black_img/BlackImg"
 
 func main() {
 	var(
